@@ -19,10 +19,10 @@
    ========================================================================== */
 
 const firebaseConfig = {
-  apiKey: "GANTI_DENGAN_API_KEY_KAMU",
+  apiKey: "AIzaSyDKhiKSei86v8v-IsnMVJoxCGeqoij0Otw",
 };
 
-const firebaseReady = firebaseConfig.apiKey !== 'GANTI_DENGAN_API_KEY_KAMU';
+const firebaseReady = firebaseConfig.apiKey !== 'AIzaSyDKhiKSei86v8v-IsnMVJoxCGeqoij0Otw';
 const firebaseCheckDone = true; // tidak perlu menunggu skrip eksternal lagi
 
 const IDENTITY_TOOLKIT_BASE = 'https://identitytoolkit.googleapis.com/v1';
